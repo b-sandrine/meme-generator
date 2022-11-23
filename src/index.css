@@ -76,3 +76,15 @@ form {
   font-size: 16px;
   background: linear-gradient(60deg, #672280 , #A626D3 );
 }
+
+.meme--image--container {
+  width: 53%;
+  margin: 5px auto;
+  text-align: center;
+}
+
+.meme--image--container img {
+  width: 100%;
+  align-items: center;
+  height: 368px;
+}
